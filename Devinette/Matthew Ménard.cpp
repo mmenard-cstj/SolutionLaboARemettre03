@@ -72,7 +72,20 @@ int main()
 	
 
 	return 0;
-}
+ 
+
+/*
+plan teste     irandom =17
+nombre          résultat 
+  5            plus grand/4 essai
+
+  -1           nest pas entre 0 et 100 / 3 essai
+  101          n'est pas entre 0 et 100 /2 essai
+  50           le chiffre est plus petit/1 essai
+  17 /// 15          vous avez gagné  ///  vous avez perdu le nombre était 17
+
+
+*/
 
 
 
